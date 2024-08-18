@@ -5,4 +5,4 @@ Total Patients: 25 million
 Average Number of Patients per Period: 54.40
 Waiting List (Last Month): 709,000
 Patient List (Past Year): 640,000
-I then developed a dashboard to visualize these insights effectively.
+I then developed a dashboard to visualize these insights effectively
